@@ -113,7 +113,6 @@
       return undefined;
     }
   }
-
   window.drawVisualization = function(p) {
     $('#holder').show();
     $('#loading').hide();
